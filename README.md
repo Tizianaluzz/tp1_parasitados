@@ -2,7 +2,7 @@ Título de la Obra: Parasitados
 
 Año: 2023
 
-Autor/a: Tiziana Luz Benegas La Valle
+Autora: Tiziana Luz Benegas La Valle
 
 [Enlace a la obra](https://editor.p5js.org/Tizi_ana/sketches/owCrsI8Ua)
 
